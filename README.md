@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zak-Rey
+- 👋 Hi, I’m @Zak
 - 👀 I’m interested in Deep Learning.
 - 🌱 I’m currently learning convolutional neural networks.
 - 💞️ I’m looking to collaborate on creating sustainable AI models.
